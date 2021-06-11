@@ -67,6 +67,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Sahil-Dhillon)
+- Frontend Mentor - [@Sahil-Dhillon](https://www.frontendmentor.io/profile/Sahil-Dhillon)
 - Twitter - [@zsahildhillon](https://www.twitter.com/zsahildhillon)
 - Instagram - [@zsahildhillon](https://www.instagram.com/zsahildhillon)
