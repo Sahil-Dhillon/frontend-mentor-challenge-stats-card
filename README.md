@@ -37,12 +37,12 @@ Users should be able to:
 
 - Mobile Screenshot
 
-![](./design/screenshot_mobile.jpeg)
+![](./design/Mobile_Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sahil-Dhillon/frontend-mentor-challenge-stats-card)
-- Live Site URL: [Add live site URL here](https://sahil-dhillon.github.io/frontend-mentor-challenge-stats-card/)
+- Solution URL: [https://github.com/Sahil-Dhillon/frontend-mentor-challenge-stats-card](https://github.com/Sahil-Dhillon/frontend-mentor-challenge-stats-card)
+- Live Site URL: [https://sahil-dhillon.github.io/frontend-mentor-challenge-stats-card/](https://sahil-dhillon.github.io/frontend-mentor-challenge-stats-card/)
 
 ## My process
 
