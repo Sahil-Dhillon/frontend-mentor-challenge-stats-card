@@ -24,15 +24,15 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-Desktop
+- Desktop
 ![](./design/desktop-design.jpg)
-Mobile
+- Mobile
 ![](./design/mobile-design.jpg)
 
 ### Screenshot
-Desktop Screenshot
+- Desktop Screenshot
 ![](./design/Desktop_Screenshot.jpeg)
-Mobile Screenshot
+- Mobile Screenshot
 ![](./design/screenshot_mobile.jpeg)
 
 ### Links
