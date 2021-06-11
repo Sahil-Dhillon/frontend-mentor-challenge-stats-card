@@ -38,7 +38,7 @@ Mobile Screenshot
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Sahil-Dhillon/frontend-mentor-challenge-stats-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://sahil-dhillon.github.io/frontend-mentor-challenge-stats-card/)
 
 ## My process
 
