@@ -14,12 +14,12 @@
         text-align: center;
         padding: 4rem 2rem 1rem 2rem;
     }
-    h1 {
+    h2 {
         color: hsl(0, 0%, 100%);
         font-size: 1.35rem;
         font-weight: 700;
     }
-    h1 span {
+    h2 span {
         color: hsl(277, 64%, 61%);
     }
     p {
